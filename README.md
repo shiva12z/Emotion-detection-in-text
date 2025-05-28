@@ -1,6 +1,6 @@
 # Emotion Detection in Text using Natural Language Processing
 
-<img src="./images/index.png"/>
+<img src="./images/image.png"/>
 
 <br>
 
