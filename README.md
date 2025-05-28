@@ -24,7 +24,7 @@ The Logistic Regression achieved an accuracy of 62% on the data.
 # Installation
 1. Clone the repository to your local machine:
 ```
-https://github.com/SannketNikam/Emotion-Detection-in-Text.git
+https://github.com/shiva12z/Emotion-detection-in-text.git
 ```
 
 2. Install the 'requirements.txt':
